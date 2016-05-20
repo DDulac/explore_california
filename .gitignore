@@ -1,0 +1,10 @@
+# Comment  this is a comment
+
+temp_file.txt
+*.zip
+*.gz
+log/*.log
+log/*.log[0-9]
+assets/photoshop/
+assets/videos/
+!assets/videos/tour_*.mp4 #Don't ignore tour videos
